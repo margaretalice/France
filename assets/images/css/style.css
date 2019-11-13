@@ -1,0 +1,29 @@
+
+header {
+    margin: 0;
+}
+#title {
+    background-color:#AFEEEE;
+}
+.company-name{
+    font-size: 6em;
+}
+.image {
+
+    background: url("../images/Morisot.jpg");
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    min-height: 360px;
+
+    transition: all .4s ease-in-out;
+
+    -moz-transition: all .4s ease-in-out;
+
+    -webkit-transition: all .4s ease-in-out;
+
+}
